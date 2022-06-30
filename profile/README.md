@@ -9,7 +9,7 @@ These Demo Application are planned to be a "Rosetta Stone" for compare OOP Web A
 * [Django (Python)](https://jakarta-ee-petclinic.github.io/petclinic_django/)
 * [Flask with SQLalchemy (Python)](https://jakarta-ee-petclinic.github.io/petclinic_flask/)
 * [Spring Petclinic (Java)](https://github.com/spring-projects/spring-petclinic)
-* [Fluid,Extbase (TYPO3-CMS, PHP)]()
+* [Fluid,Extbase (TYPO3-CMS, PHP)](https://extensions.typo3.org/)
 
 Via OOA and OOD the functional Requirements should be extracted and divided from the nonfunctional Requirements
 of the Frameworks:
@@ -19,9 +19,9 @@ of the Frameworks:
   but Jakarta EE uses JSF (Java Server Faces), a Component Based Web/Presentation-Tier.
 
 This Specification should also serve as Specification for non-Web Frontends like:
-* [Qt (C++)]()
-* [Qt (Python)]()
-* [Java Swing]()
+* [Qt (C++)](https://jakarta-ee-petclinic.github.io/petclinic-qt5/)
+* [Qt (Python)](https://jakarta-ee-petclinic.github.io/petclinic-pyqt/)
+* [Java Swing](https://jakarta-ee-petclinic.github.io/petclinic-java-swing/)
 
 ## Why Petclinic?
 
