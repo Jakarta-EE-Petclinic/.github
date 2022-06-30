@@ -1,7 +1,5 @@
 # Jakarta-EE-Petclinic
 
-![Figure Domain Class Modell](./Domain_Class_Modell-Petclinic_Domain_Class_Modell.png)
-
 These Demo Application are planned to be a "Rosetta Stone" for compare OOP Web Application Frameworks like
 
 * [Jakarta EE (Java)](https://jakarta-ee-petclinic.github.io/petclinic-jakartaee/)
@@ -31,6 +29,4 @@ This Specification should also serve as Specification for non-Web Frontends like
 * It is simple enough but yet it shows more than just the CRUD Use Cases (Create, Read, Update, Delete) of most Demos and Training Examples.
 * You can think of it as smallest complete Web App with the usual things to solve. 
 
-## Petclinic Use Cases
-
-![Figure Uses Cases Petclinic](./Use_Cases-Petclinic_Use_Case_Diagram.png)
+![Figure Domain Class Modell](./Domain_Class_Modell-Petclinic_Domain_Class_Modell.png)
