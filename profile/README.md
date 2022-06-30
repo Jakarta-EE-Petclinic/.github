@@ -1,6 +1,6 @@
 # Jakarta-EE-Petclinic
 
-![Figure Domain Class Modell](Domain_Class_Modell-Petclinic_Domain_Class_Modell.png)
+![Figure Domain Class Modell](./Domain_Class_Modell-Petclinic_Domain_Class_Modell.png)
 
 These Demo Application are planned to be a "Rosetta Stone" for compare OOP Web Application Frameworks like
 
@@ -33,4 +33,4 @@ This Specification should also serve as Specification for non-Web Frontends like
 
 ## Petclinic Use Cases
 
-![Figure Uses Cases Petclinic](Use_Cases-Petclinic_Use_Case_Diagram.png)
+![Figure Uses Cases Petclinic](./Use_Cases-Petclinic_Use_Case_Diagram.png)
